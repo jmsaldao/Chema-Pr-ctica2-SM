@@ -1,7 +1,7 @@
 def hola_mundo():
 
 print("Hola mundo!")
-def hola_mundo3():
+def hola_mundo4():
 
-print("Hola mundo 3!")
+print("Hola mundo 4!")
  hola_mundo()
